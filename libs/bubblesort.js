@@ -5,6 +5,7 @@ var timer = require('./timer');
 // bubble sort
 Array.prototype.bubbleSort = function () {
     timer.record();
+    console.log('====bubble sort=====');
     var arr = this,
         tmp, // allocate one unit space for array element swapping.
         sorted; // indicate if all numbers are already sorted in this round
@@ -24,5 +25,8 @@ Array.prototype.bubbleSort = function () {
     }
     timer.record();
 }
+
+// short name for bubble sort.
+Array.prototype.bs = Array.prototype.bubbleSort;
 
 module.exports = {};
