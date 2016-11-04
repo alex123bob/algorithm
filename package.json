@@ -1,0 +1,22 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "Specialize in algorithm and its relevant analyses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex123bob/algorithm.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "Alexander Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex123bob/algorithm/issues"
+  },
+  "homepage": "https://github.com/alex123bob/algorithm#readme"
+}
