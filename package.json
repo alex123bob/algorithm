@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/alex123bob/algorithm/issues"
   },
-  "homepage": "https://github.com/alex123bob/algorithm#readme"
+  "homepage": "https://github.com/alex123bob/algorithm#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
